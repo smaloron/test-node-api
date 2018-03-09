@@ -1,0 +1,6 @@
+{
+  "users": [
+    {"email": "hercule@olympe.com", "id": 1, "password": "123"},
+    {"email": "user@mail.com", "id": 2, "password": "123"}
+  ]
+}
